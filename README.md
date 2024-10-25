@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Information Technology graduate and an aspiring Web & Software developer<br><br>I am currently working on both my frontend and backend skills, but mostly frontend<br>I am currently learning the likes of Javascript, HTML, CSS, NodeJS and Express
+I am an Information Technology graduate and an aspiring Web & Software developer<br><br>I am currently working on both my frontend and backend skills, and learning the likes of Javascript, HTML, CSS, NodeJS and Express, SQL
 
 
 ## 🌐 Socials:
