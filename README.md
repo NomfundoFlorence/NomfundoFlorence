@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Information Technology graduate and an aspiring Fullstack developer<br><br>I am currently working on both my frontend and backend skills, and learning the likes of Javascript, HTML, CSS, NodeJS and Express, SQL
+I am an Information Technology graduate and an aspiring Fullstack developer<br><br>I am currently working on both my frontend and backend skills - Learning Javascript, HTML, CSS, NodeJS, ExpressJS and Databases
 
 
 ## 🌐 Socials:
